@@ -546,6 +546,7 @@ tryflag CFLAGS_AUTO -Winit-self
 tryflag CFLAGS_AUTO -Wreturn-type
 tryflag CFLAGS_AUTO -Wsequence-point
 tryflag CFLAGS_AUTO -Wstrict-aliasing
+tryflag CFLAGS_AUTO -Wtype-limits
 tryflag CFLAGS_AUTO -Wunused-function
 tryflag CFLAGS_AUTO -Wunused-label
 tryflag CFLAGS_AUTO -Wunused-variable
